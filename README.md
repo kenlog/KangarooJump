@@ -7,6 +7,7 @@
 [![Latest release](https://img.shields.io/github/release/kenlog/KangarooJump.svg)](https://github.com/kenlog/KangarooJump/releases)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kenlog/KangarooJump/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kenlog/KangarooJump/graphs/contributors)
+[![Downloads](https://img.shields.io/github/downloads/kenlog/KangarooJump/total.svg)](https://github.com/kenlog/KangarooJump/releases)
 
 # KangarooJump for kanboard
 You can switch from one task to another by entering number on any page of your Kanboard.
