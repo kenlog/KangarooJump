@@ -11,7 +11,7 @@
 # KangarooJump for kanboard
 You can switch from one task to another by entering number on any page of your Kanboard.
 
-![Screen-header](https://user-images.githubusercontent.com/11728231/102719875-dbac0480-42f0-11eb-8772-e955e5b1e51e.png)
+![Screen-header](https://user-images.githubusercontent.com/11728231/102719910-1dd54600-42f1-11eb-9e8a-06c4d4d39256.png)
 
 <noscript><a href="https://liberapay.com/kenlog/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <a href="https://paypal.me/kenlog"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /></a>
