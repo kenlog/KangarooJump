@@ -7,9 +7,12 @@
 [![Latest release](https://img.shields.io/github/release/kenlog/KangarooJump.svg)](https://github.com/kenlog/KangarooJump/releases)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kenlog/KangarooJump/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kenlog/KangarooJump/graphs/contributors)
+[![Downloads](https://img.shields.io/github/downloads/kenlog/KangarooJump/total.svg)](https://github.com/kenlog/KangarooJump/releases)
 
 # KangarooJump for kanboard
 You can switch from one task to another by entering number on any page of your Kanboard.
+
+![Screen-header](https://user-images.githubusercontent.com/11728231/102719980-7ad0fc00-42f1-11eb-847f-842bef1682f3.png)
 
 <noscript><a href="https://liberapay.com/kenlog/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <a href="https://paypal.me/kenlog"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /></a>
