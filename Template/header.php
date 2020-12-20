@@ -11,7 +11,14 @@
         $this->render('header/user_dropdown')
     )) ?>
 
-<header>
+<?php 
+    global $themeMoonConfig;
+    if (file_exists('plugins/Moon') && isset($themeMoonConfig['backgroundColorHeader'])) {
+        echo '<header style="background:'.$themeMoonConfig['backgroundColorHeader'].'">';
+    } else {
+        echo '<header>';
+    }
+?>
     <div class="title-container">
         <?= $_title ?>
     </div>
