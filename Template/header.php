@@ -28,7 +28,7 @@
             <?= $this->form->hidden('controller', array('controller' => 'TaskViewController')) ?>
             <?= $this->form->hidden('action', array('action' => 'show')) ?>
             <div>
-                <?= $this->form->text('task_id', array(), array(), array('placeholder="'.t('Search task id').'"', 'pattern="[0-9.]+" title="'.t('Task number').'"'.'aria-label="'.t('Search task id').'"'.'style="border-radius: 3px; height: 16px;"'), 'input-addon-field') ?>
+                <?= $this->form->text('task_id', array(), array(), array('placeholder="'.t('Search task id').'"', 'pattern="[0-9.]+" title="'.t('Task number').'" '.'aria-label="'.t('Search task id').'" '.'style="border-radius: 3px; height: 16px;"'), 'input-addon-field') ?>
             </div>
         </form>
     </div>
